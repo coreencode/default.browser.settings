@@ -1,7 +1,7 @@
 #  Default Browser Settings
 
 
-[![Default Browser Settings](redd.png)](https://github.com/coreencode/default.browser.settings)
+[![Default Browser Settings](redd.png)](https://icncomputer.com/Default-Browser-Settings)
 
 Browsers are user interfaces that make surfing the web enjoyable. They can be used to easily retrieve and display web content such as text documents, images, videos, and graphics. A lot has happened in terms of browsers since Microsoft first released Internet Explorer in 1995. Today, there are a variety of powerful browsers that offer users not only an engaging, but also secure web experience. Tracking protection, multi-level security settings, and privacy safeguards make this possible. The most popular and common browsers include:
 
